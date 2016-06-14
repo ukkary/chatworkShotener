@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Chatwork-Z Extention",
+  "version": "1.0",
+  "description": "Make it easy",
+  "browser_action": {
+    "default_icon": "images/icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons" : {
+    "128": "images/icon.png"
+  }
+}
